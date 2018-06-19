@@ -9,4 +9,4 @@ def fizz_buzz(int)
     puts "nil"
   end
 end
-fizz_buzz(30)
+fizz_buzz(43)
