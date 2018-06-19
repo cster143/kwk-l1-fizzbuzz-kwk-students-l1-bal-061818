@@ -3,5 +3,7 @@ def fizz_buzz(int)
     puts "Fizz"
   end
 end
-
-fizz_buzz(3)
+elsif int%5 == 0
+  puts "Buzz"
+end
+fizz_buzz(20)
